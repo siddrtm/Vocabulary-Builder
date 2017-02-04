@@ -4,7 +4,6 @@ This piece of script was built by me to solve this problem of mine by having wor
 
 To run app use 
 >>>python vocabbuilder.py
-in terminal
 
 Make sure vocabbuilder.py and wordlist.xls are in same folder.
 
