@@ -1,0 +1,11 @@
+to run app use >>>python vocabbuilder.py
+in terminal
+make sure vocabbuilder.py and wordlist.xls are in same folder
+
+for installing pip and other dependencies use:  
+
+sudo apt-get install python-pip
+sudo apt-get install python-easygui
+sudo apt-get install python-tk
+sudo apt-get install python-xlrd
+sudo pip install pyttsx
